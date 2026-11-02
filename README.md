@@ -23,17 +23,6 @@ I work with video transport streams, packet captures and the signalling that rid
 | Tools | Python utilities with simple interfaces, built to be checked and trusted |
 | Learning | Cloud (AWS and Azure), machine learning |
 
-## How I build a tool
-
-```mermaid
-flowchart LR
-    A["A real problem<br/>on a real stream"] --> B["Read the<br/>standard"]
-    B --> C["Build the<br/>smallest tool"]
-    C --> D["Test against<br/>real captures"]
-    D --> E["Keep it simple<br/>to use"]
-    E --> A
-```
-
 ## Tech
 
 <details>
