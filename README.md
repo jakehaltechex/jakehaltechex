@@ -44,7 +44,7 @@ I work with video transport streams, packet captures and the signalling that rid
 | | As at 2 November 2026 |
 |---|---|
 | Contributions in the last year | 105 |
-| Repositories | 2 (both private for now) |
+| Repositories | 2 (private) |
 
 ---
 
